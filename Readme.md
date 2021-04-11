@@ -3,7 +3,8 @@ https://spring.io/projects/spring-boot#learn
 
 General rule
 
-https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-external-config-files-profile-specific
+1. [spring-boot / profiles](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-profiles)
+1. [spring-boot / external-config-files-profile-specific](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-external-config-files-profile-specific)
 
 > Profile-specific properties are loaded from the same locations as standard application.properties, with profile-specific files always overriding the non-specific ones. If several profiles are specified, a __last-wins strategy__ applies. 
 > 
