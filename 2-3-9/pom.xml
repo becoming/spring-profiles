@@ -8,7 +8,7 @@
         <version>2.3.9.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>tech.becoming.spring-profiles</groupId>
     <artifactId>2-3-9</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
@@ -17,7 +17,7 @@
         <org.projectlombok.version>1.18.18</org.projectlombok.version>
         <maven.compiler.version>3.8.1</maven.compiler.version>
     </properties>
-    
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

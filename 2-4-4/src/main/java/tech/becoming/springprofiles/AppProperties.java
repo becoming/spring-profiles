@@ -1,4 +1,4 @@
-package com.example.demo.profiles;
+package tech.becoming.springprofiles;
 
 
 import lombok.Getter;

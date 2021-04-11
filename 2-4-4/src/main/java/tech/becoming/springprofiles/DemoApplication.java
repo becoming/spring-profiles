@@ -1,4 +1,4 @@
-package com.example.demo;
+package tech.becoming.springprofiles;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
